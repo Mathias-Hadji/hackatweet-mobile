@@ -23,7 +23,7 @@ export default function LoginScreen({ navigation }) {
                 >
                     <View style={styles.container}>
                         <Text style={{ fontSize: 50, marginVertical: 20 }}>
-                            Login Screen.
+                            Login Screen ...
                         </Text>
 
                         <TextInput
