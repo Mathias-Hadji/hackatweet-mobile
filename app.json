@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cd0206b1-a60d-47db-b071-6f75f18f6a85"
+      }
+    },
+    "owner": "mathiasweb"
   }
 }
